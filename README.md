@@ -1,3 +1,6 @@
+Clone of Facebook SDK for PHP (v5) with some fixes for PHP8.1+
+
+
 # Facebook SDK for PHP (v5)
 
 [![Build Status](https://img.shields.io/travis/facebook/php-graph-sdk/5.x.svg)](https://travis-ci.org/facebook/php-graph-sdk)
